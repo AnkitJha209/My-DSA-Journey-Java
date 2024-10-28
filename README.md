@@ -32,7 +32,7 @@ I am learning Data Structures and Algorithms following Love Babbar's DSA Course.
 - Solve associated problems
 - Build strong DSA foundation
 
-_Started on: [Your Start Date]_
+_Started on: 28-10-2024
 
 ---
 _This document will track my progress in learning DSA concepts and their implementation in Java._
